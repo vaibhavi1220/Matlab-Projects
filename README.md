@@ -2,8 +2,8 @@
 
 This folder contains three projects completed during my course of Image Processing
 
-1) Image-Noise-Models-
-Generated Uniform and Salt-and-pepper noise models for an image
+1) Image-Noise-Models
+<br/>Generated Uniform and Salt-and-pepper noise models for an image
 
 2) 2D DFT in Image Filtering
 <b><br/>Low pass Filter:</b>
