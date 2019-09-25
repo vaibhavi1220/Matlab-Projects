@@ -11,8 +11,7 @@ Generated Uniform and Salt-and-pepper noise models for an image
 Implementation of 1D Fast Fourier Transform and 2D Fast Fourier transform and applying the Ideal low pass filter.
 
 3) Digital-Image-Re-Sampling
-<br/>Re-sampling of a 2D Image
-
-Dimensions for the images
+<br/><b>Re-sampling of a 2D Image</b>
+<br/>Dimensions for the images
 Downscale : 200 150  
 Upscale : 400 450
